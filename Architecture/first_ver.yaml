@@ -1,0 +1,2 @@
+nc: 80  # number of classes in your dataset
+ch: 3   # input channels (e.g. RGB)
