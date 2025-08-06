@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 22
+names: ['animal', 'bear', 'bull', 'camel', 'cheetah', 'crocodile', 'deer', 'dog', 'elephant', 'fox', 'girafee', 'hippo', 'lion', 'monkey', 'pig', 'poacher', 'ranger', 'rhino', 'tiger', 'turkey', 'weapon', 'zebra']
+
+roboflow:
+  workspace: poacher-ifyuf
+  project: poacher
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/poacher-ifyuf/poacher/dataset/2

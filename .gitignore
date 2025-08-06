@@ -2,4 +2,5 @@ Architecture/*.pt
 Architecture/runs/
 .vscode
 .dist
-
+*.config
+*__pycache__
